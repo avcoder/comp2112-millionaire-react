@@ -1,0 +1,141 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+      "correct_answer": "Objective-C",
+      "incorrect_answers": ["C#", "Ruby", "C++"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "What port does HTTP run on?",
+      "correct_answer": "80",
+      "incorrect_answers": ["53", "443", "23"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "How long is an IPv6 address?",
+      "correct_answer": "128 bits",
+      "incorrect_answers": ["32 bits", "64 bits", "128 bytes"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What was the name given to Android 4.3?",
+      "correct_answer": "Jelly Bean",
+      "incorrect_answers": ["Lollipop", "Nutella", "Froyo"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+      "correct_answer": "1000",
+      "incorrect_answers": ["512", "1024", "500"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+      "correct_answer": "Taiwan",
+      "incorrect_answers": [
+        "United States",
+        "Germany",
+        "China (People&#039;s Republic of)"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Which of the following is the oldest of these computers by release date?",
+      "correct_answer": "TRS-80",
+      "incorrect_answers": ["Commodore 64", "ZX Spectrum", "Apple 3"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": ".rs is the top-level domain for what country?",
+      "correct_answer": "Serbia",
+      "incorrect_answers": ["Romania", "Russia", "Rwanda"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "In programming, what do you call functions with the same name but different implementations?",
+      "correct_answer": "Overloading",
+      "incorrect_answers": ["Overriding", "Abstracting", "Inheriting"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+      "correct_answer": "2005",
+      "incorrect_answers": ["1999", "2002", "2008"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What does the Prt Sc button do?",
+      "correct_answer": "Captures what&#039;s on the screen and copies it to your clipboard",
+      "incorrect_answers": [
+        "Nothing",
+        "Saves a .png file of what&#039;s on the screen in your screenshots folder in photos",
+        "Closes all windows"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which of these programming languages is a low-level language?",
+      "correct_answer": "Assembly",
+      "incorrect_answers": ["Python", "C#", "Pascal"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What does the term MIME stand for, in regards to computing?",
+      "correct_answer": "Multipurpose Internet Mail Extensions",
+      "incorrect_answers": [
+        "Mail Internet Mail Exchange",
+        "Multipurpose Interleave Mail Exchange",
+        "Mail Interleave Method Exchange"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "HTML is what type of language?",
+      "correct_answer": "Markup Language",
+      "incorrect_answers": [
+        "Macro Language",
+        "Programming Language",
+        "Scripting Language"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?",
+      "correct_answer": "Cheetah",
+      "incorrect_answers": ["Puma", "Tiger", "Leopard"]
+    }
+  ]
+}
